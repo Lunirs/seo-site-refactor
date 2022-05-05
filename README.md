@@ -1,13 +1,13 @@
-#SEO Site Refactor
+# SEO Site Refactor
 
-##Description
+## Description
 
-##Table of Contents
+## Table of Contents
 
-##Installation
+## Installation
 
-##Usage
+## Usage
 
-##Credits
+## Credits
 
-##License
+## License
