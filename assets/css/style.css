@@ -54,12 +54,6 @@ a {
   text-decoration: none;
 }
 
-/*styles for all paragraphs*/
-
-p {
-  font-size: 16px;
-}
-
 /*background image section*/
 
 .hero {
@@ -69,6 +63,12 @@ p {
   background-image: url("../images/digital-marketing-meeting.jpg");
   background-size: cover;
   background-position: center;
+}
+
+/*styles for all paragraphs*/
+
+p {
+  font-size: 16px;
 }
 
 /* Section for contents (main)*/
